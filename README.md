@@ -27,24 +27,27 @@ Soal :
 Jawaban :
 1. [Jawaban Soal 1](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul2/src/modul2/latihan/BigInteger.java)
 
-  java
+  ```java
   long p = 2147483648;
+  ```
   
   Syntax diatas akan menampilkan error:
-  java
-  E:\Folder Alif\Folder Kuliah\Semester 3\Folder Praktikum\Praktikum Pemrograman 2\Source Code\Tugas\Github\20104012_Alif-Rizki-Ramdhana_S1SEA_Pemrograman2\out\production\20104012_Alif-Rizki-Ramdhana_S1SEA_Pemrograman2" modul2.latihan.BigInteger error: integer number too large: 2147483648
+  ```java
+  D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2 modul2.latihan.BigInteger error: integer number   too large: 2147483648
+  ```
   
   Mengapa error itu bisa terjadi padahal daya tampung tipe data long adalah 2^63-1 ? Error tersebut terjadi karena java akan membaca syntax tersebut dengan tipe data integer   bukan tipe data long. Jika kita ingin menggunakan tipe data long seperti syntax diatas maka kita harus menambah huruf(suffix) "L" dibelakang angka agar java dapat membaca     tipe data yang kita maksud adalah tipe data long.
 
   Contoh:
-  java
+  ```java
   long p = 2147483648L;
+  ```
   
 
 
 2. [Jawaban Soal 2](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul2/src/modul2/latihan/AnakAyam.java)
    
-   java
+   ```java
    Anak ayam turunlah 10, Mati satu tinggalah 9
    Anak ayam turunlah 9, Mati satu tinggalah 8
    Anak ayam turunlah 8, Mati satu tinggalah 7
@@ -55,11 +58,13 @@ Jawaban :
    Anak ayam turunlah 3, Mati satu tinggalah 2
    Anak ayam turunlah 2, Mati satu tinggalah 1
    Anak Ayam turun 1, Mati satu tinggalah induknya
+   ```
    
    
    Dengan menggunakan perulangan for, pada codingannya untuk mengulang angka yang telah  diinput, contoh seperti ini 
-   java
+   ```java
    Masukan Jumlah Ayam : 10
+   ```
    
    
 3. [Jawaban Soal 3]()
