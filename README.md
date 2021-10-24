@@ -48,16 +48,16 @@ Jawaban :
 2. [Jawaban Soal 2](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul2/src/modul2/latihan/AnakAyam.java)
    
    ```java
-   Anak ayam turunlah 10, Mati satu tinggalah 9
-   Anak ayam turunlah 9, Mati satu tinggalah 8
-   Anak ayam turunlah 8, Mati satu tinggalah 7
-   Anak ayam turunlah 7, Mati satu tinggalah 6
-   Anak ayam turunlah 6, Mati satu tinggalah 5
-   Anak ayam turunlah 5, Mati satu tinggalah 4
-   Anak ayam turunlah 4, Mati satu tinggalah 3
-   Anak ayam turunlah 3, Mati satu tinggalah 2
-   Anak ayam turunlah 2, Mati satu tinggalah 1
-   Anak Ayam turun 1, Mati satu tinggalah induknya
+   Anak ayam turun 10, Mati 1 tinggal 9
+   Anak ayam turun 9, Mati 1 tinggal 8
+   Anak ayam turun 8, Mati 1 tinggal 7
+   Anak ayam turun 7, Mati 1 tinggal 6
+   Anak ayam turun 6, Mati 1 tinggal 5
+   Anak ayam turun 5, Mati 1 tinggal 4
+   Anak ayam turun 4, Mati 1 tinggal 3
+   Anak ayam turun 3, Mati 1 tinggal 2
+   Anak ayam turun 2, Mati 1 tinggal 1
+   Anak Ayam turun 1, Mati 1 tinggalah induknya
    ```
    
    
@@ -67,8 +67,40 @@ Jawaban :
    ```
    
    
-3. [Jawaban Soal 3]()
+3. [Jawaban Soal 3](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul2/src/modul2/latihan/Abc.java)
+
+  Pertama, user akan diminta untuk menginput berapa jumlah testcase yang akan diuji coba, semisal :
+  
+  ```java
+  Masukkan Jumlah Testcase : 2
+  ```
+  Kemudian sistem akan menampilkan list menurun yaitu ((A1 B1 C1), (A2 B2 C2), (A3 B3 C3)). Sistem ini akan menampilkan jumlah testcase sesuai yang diinputkan oleh user, yaitu sebagai berikut :
+  
+  ```java
+  Masukkan A1 : 4
+  Masukkan B1 : 5
+  Masukkan C1 : 2
+
+  Masukkan A2 : 3
+  Masukkan B2 : 2
+  Masukkan C2 : 1
+
+  Masukkan A3 : 6
+  Masukkan B3 : 8
+  Masukkan C3 : 3
+  ```
+  Sehingga sistem juga akan menampilkan hasil dari penjumlahan dan pengurangan dari bilangan bulat yang telah diinputkan oleh user
+  
+  ```java
+  A1 + B1 - C1 = 7
+
+  A2 + B2 - C2 = 4
+
+  A3 + B3 - C3 = 11
+```
 
 <hr>
 
 ## Kesimpulan
+  Pada praktikum yang telah dilakukan dapat disimpulkan bahwa mahasiswa mampu untuk
+  Mengetahui aturan penamaan identifier, Mengenal dan mengingat kembali kata-kata kunci yang ada di Java yang telah dibahas pada semester sebelumnya, Mengetahui tipe-tipe dasar yang ada di Java dan mahasiswa Mengetahui penggunaan variable pada Java.
