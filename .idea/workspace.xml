@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fcbb458-8845-4a9e-8146-75293e84eaa7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/modul2/latihan/BigInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul2/percobaan/Aritmatika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul2/percobaan/CobaUnicode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul2/percobaan/InputKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul2/percobaan/Tipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul2/latihan/Abc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul2/latihan/AnakAyam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modul2/latihan/AnakAyam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="modul3" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zoG7xNW0MoQrPgQdPDQn4AMhlB" />
@@ -64,6 +66,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

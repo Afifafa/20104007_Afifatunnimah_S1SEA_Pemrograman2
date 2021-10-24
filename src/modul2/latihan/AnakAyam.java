@@ -2,17 +2,18 @@ package modul2.latihan;
 import java.util.Scanner;
 
 public class AnakAyam {
-        public static void main(String[] args) {
-            int anak, i;
-            Scanner input = new Scanner(System.in);
+    public static void main(String[] args) {
+        int anak = 10;
 
-            System.out.print("Masukkan Jumlah Anak Ayam\t: ");
-            anak = input.nextInt();
-            for (i = anak; i > 1; i--){
-                System.out.print("Anak ayam turunlah " + anak);
-                anak = i - 1;
-                System.out.println(", Mati satu tinggalah " + anak);
+        while (anak > 0) {
+            System.out.println("Anak ayam turun " + anak);
+            anak--;
+
+            if (anak != 0) {
+                System.out.println("Mati 1 tinggal " + anak);
+            } else {
+                System.out.println("Mati 1 tinggal Induknya");
             }
-            System.out.println("Anak Ayam turun 1, Mati satu tinggalah induknya");
         }
     }
+}
