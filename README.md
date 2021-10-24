@@ -11,7 +11,7 @@ Mata Kuliah Pemrograman 2
   Java mempunyai 8 tipe dasar, yaitu boolean, char, byte, short, int, long, float, dan juga ada double.
 * Variabel
 
-  Ssebagai penanda suatu tipe data ataupun nama pada masing masing identifier.
+  Sebagai penanda suatu tipe data ataupun nama pada masing masing identifier.
 * Casting dan Promotion
 
   Biasa diperlukan untuk mengkoversi untuk suatu tipe ke tipe data yang lebih kecil panjang bitnya.
