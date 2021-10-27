@@ -72,7 +72,7 @@ Jawaban :
   Pertama, user akan diminta untuk menginput berapa jumlah testcase yang akan diuji coba, semisal :
   
   ```java
-  Masukkan Jumlah Testcase : 2
+  Masukkan Jumlah Testcase : 3
   ```
   Kemudian sistem akan menampilkan list menurun yaitu ((A1 B1 C1), (A2 B2 C2), (A3 B3 C3)). Sistem ini akan menampilkan jumlah testcase sesuai yang diinputkan oleh user, yaitu sebagai berikut :
   
@@ -97,10 +97,10 @@ Jawaban :
   A2 + B2 - C2 = 4
 
   A3 + B3 - C3 = 11
-```
+  ```
 
 <hr>
 
 ## Kesimpulan
   Pada praktikum yang telah dilakukan dapat disimpulkan bahwa mahasiswa mampu untuk
-  Mengetahui aturan penamaan identifier, Mengenal dan mengingat kembali kata-kata kunci yang ada di Java yang telah dibahas pada semester sebelumnya, Mengetahui tipe-tipe dasar yang ada di Java dan mahasiswa Mengetahui penggunaan variable pada Java.
+  Mengetahui aturan penamaan identifier, Mengenal dan mengingat kembali kata-kata kunci yang ada di Java yang telah dibahas pada semester sebelumnya, Mengetahui tipe-tipe dasar   yang ada di Java dan mahasiswa Mengetahui penggunaan variable pada Java.
