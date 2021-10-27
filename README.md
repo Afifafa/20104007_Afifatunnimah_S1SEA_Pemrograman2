@@ -87,7 +87,7 @@ Jawaban :
   ```
     
     Didalam class boolean ambilUang tersebut, akan ada perumpamaan yang dimana jika saldo kurang dari jumlah maka akan berubah menjadi false.
-    berbeda lagi apabila saldo kurang dari sama dengan jumlah, maka akan menjadi true. 
+   berbeda lagi apabila saldo kurang dari sama dengan jumlah, maka akan menjadi true. 
    
 <hr>
 
