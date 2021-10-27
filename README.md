@@ -75,15 +75,16 @@ Jawaban :
     ```
     
     Sehingga sistem akan menampilkan hasil sebagai berikut :
-   
-    Saldo awal	: 10000
-    Jumlah uang yang disimpan	: 8000
-    Jumlah uang yang diambil	: 7000	ok
-    Jumlah uang yang disimpan	: 1000
-    Jumlah uang yang diambil	: 10000	ok
-    Jumlah uang yang diambil	: 2500	gagal
-    Jumlah uang yang disimpan	: 2000
-    Saldo sekarang				= 4000
+    ```java
+   Saldo awal	: 10000
+   Jumlah uang yang disimpan	: 8000
+   Jumlah uang yang diambil	: 7000	ok
+   Jumlah uang yang disimpan	: 1000
+   Jumlah uang yang diambil	: 10000	ok
+   Jumlah uang yang diambil	: 2500	gagal
+   Jumlah uang yang disimpan	: 2000
+   Saldo sekarang			= 4000
+   ```
  
     
     Didalam class boolean ambilUang tersebut, akan ada perumpamaan yang dimana jika saldo kurang dari jumlah maka akan berubah menjadi false.
