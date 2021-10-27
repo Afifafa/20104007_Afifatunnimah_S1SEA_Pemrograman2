@@ -2,7 +2,7 @@
 <hr>
 Mata Kuliah Pemrograman 2
 
-Modul 3 : Pengenalan Pemrograman Berorientasi Objek
+# Modul 3 : Pengenalan Pemrograman Berorientasi Objek
 
 ## Dasar Teori
 * Pemrograman Berorientasi Objek
