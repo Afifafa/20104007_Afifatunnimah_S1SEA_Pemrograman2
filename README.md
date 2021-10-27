@@ -5,16 +5,16 @@ Mata Kuliah Pemrograman 2
 ## Dasar Teori
 * Pemrograman Berorientasi Objek
 
-  Merupakan pemrograman yang berorientasikan kepada objek, yang dimana semua fungsi dibungkus dalam class objek.
+  Pemrograman Berorientasi Objek (Object Oriented Programming/OOP) merupakan pemrograman yang berorientasikan kepada objek, dimana semua data dan fungsi dibungkus dalam           class-class atau object-object.
 * Mendeklarasikan Suatu Class
 
-  Class, merupakan wadah yang berisi pemodelan dari suatu objek atau benda, yang mendeskripsikan suatu data.
+  Class adalah suatu wadah yang berisi abstraksi (pemodelan) dari suatu fungsi objek, yang mendeskripsikan data (sifat karakteristik) dan fungsi yang dimiliki oleh objek           tersebut.
 * Mendeklarasikan Suatu Atribut
 
-  Attribut yang merupakan suatu nilai, yang terdapat pada suatu objek, yang merupakan berasal dari class. 
+  Attribut merupakan type data yang terdapat pada suatu object yang berasal dari class. Attribut juga merepresentasikan karakteristik dari suatu object. 
 * Mendeklarasikan Suatu Metode
 
-  Sesuatu yang dapat dilakukan oleh objek, yang dimana dalam metode implementasinya program ditulis dalam berbentuk fungsi.
+  Metode/method adalah sesuatu yang dapat dilakukan oleh objek. Method implementasinya dalam program ditulis dalam bentuk fungsi. Metode ini menentukan apa yang terjadi ketika     objek itu dibuat serta berbagai operasi yang dapat dilakukan objek.
 * Mengakses Anggota Suatu Objek
   
   Untuk mengakses suatu anggota - anggota objek, harus dibuat namanya instance class tersebut terlebih dahulu. 
@@ -34,16 +34,18 @@ Soal :
   | +ambilUang(jumlah: int): boolean |
 
 Jawaban :
-1. [Jawaban Soal 1](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul3/src/modul3/latihan/latihan1.java)
+1. [Jawaban Soal 1 Method](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul3/src/modul3/latihan/Method_Latihan1.java)
+2. [Jawaban Soal 1 Main](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul3/src/modul3/latihan/latihan1.java)
 
-   Jadi, pada UML Class diatas, diminta untuk menjelaskan dalam bahasa java, yang dimana adalah :
+   Maka, pada UML Class tersebut, diminta untuk menjelaskan dalam bahasa java, yang dimana adalah :
    
-   java
+   ```java
     int saldo;
-    public Tabungan(int saldo){
+
+    public Method_Latihan1(int saldo) {
         this.saldo = saldo;
     }
-    
+    ```
     
     Kemudian, setelah kita membuat saldo dan tabungannya, maka diminta untuk menjelaskan UML Diagram untuk getSaldo dan juga simpanUang :
     
@@ -58,8 +60,8 @@ Jawaban :
     ```
     
     
-    Pada fungsi simpanUang, dimana jika kita memasukan jumlah saldo tersebut, maka, saldo yang dikembalikan akan sama dengan saldo dan ditambah jumlah. 
-    Kemudian, kita akan akan membuat variable ambilUang terlebih dahulu :
+    Pada fungsi simpanUang, apabila kita memasukan jumlah saldo tersebut, maka saldo yang dikembalikan akan sama dengan saldo dan ditambah jumlah. 
+    Kemudian, kita akan membuat variable ambilUang terlebih dahulu :
     
     ```java
     public boolean ambilUang(int jumlah){
@@ -72,12 +74,11 @@ Jawaban :
     }
     ```
     
-    Dimana, didalam class boolean ambilUang tersebut, akan ada perumpamaan, dimana jika saldo kurang dari jumlah, maka akan berubah menjadi false.
-    Lain hal, jika saldo kurang dari sama dengan jumlah, maka akan menjadi true. 
+    Didalam class boolean ambilUang tersebut, akan ada perumpamaan yang dimana jika saldo kurang dari jumlah maka akan berubah menjadi false.
+    berbeda lagi apabila saldo kurang dari sama dengan jumlah, maka akan menjadi true. 
    
 <hr>
 
 ## Kesimpulan
 
-Kesimpulan pada praktikum modul 3 ini adalah, mahasiswa mengenal bagaimana cara menggunakan pemrograman berorientasi objek, dan bagaimana cara kerja masing - masing
-pemrograman, saat dijalankan.
+  Pada praktikum modul 3 ini dapat disimpulkan bahwa, mahasiswa diharapkan dapat mengenal pemrograman berorientasi objek, mendeklarasikan suatu class, suatu atribut, suatu metode serta dapat mengakses anggota suatu obyek.
