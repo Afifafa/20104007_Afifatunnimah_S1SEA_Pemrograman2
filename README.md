@@ -26,8 +26,8 @@ Soal
 1.  Membuat 2 class StudentRecord dan StudentRecordExample dalam project
 
 Jawaban 
-1. [Jawaban Soal 1 StudentRecord]()
-2. [Jawaban Soal 1 StudentRecordExample]()
+1. [Jawaban Soal 1 StudentRecord](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul4/src/modul4/latihan/StudentRecord.java)
+2. [Jawaban Soal 1 StudentRecordExample](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul4/src/modul4/latihan/StudentRecordExample.java)
 
  Pertama - tama, kita membuat sebuah method private atau Information Hiding, yang dimana, saat kita panggil, variable yang selain di private
    tidak akan terpanggil, Kita buat class private terlebih dahulu :
