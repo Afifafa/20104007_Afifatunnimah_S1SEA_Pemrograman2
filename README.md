@@ -110,4 +110,4 @@ Jawaban
 
 ## Kesimpulan
 
-Setelah melakukan praktikum pada modul 4 ini mahasiswa diharapkan dapat menerapkan konsep enkapsulasi pada class dan dapat mendeklarasikan suatu constructor
+Setelah melakukan praktikum pada modul 4 ini mahasiswa diharapkan dapat menerapkan konsep enkapsulasi pada class dan dapat mendeklarasikan suatu constructor.
