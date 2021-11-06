@@ -49,6 +49,6 @@ public class TesLatihan {
         System.out.print("\nJumlah uang yang disimpan\t: 2000");
 
         temp = nasabah.getTabungan().getSaldo();
-        System.out.println("\nSaldo sekarang\t\t\t\t: " + temp);
+        System.out.println("\nSaldo sekarang\t\t\t\t= " + temp);
     }
 }
