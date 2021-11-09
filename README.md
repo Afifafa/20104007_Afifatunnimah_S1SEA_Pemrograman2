@@ -25,3 +25,65 @@ Jawaban
 2. [Tabungan](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul5/src/modul5/latihan/perbankan/Tabungan.java)
 3. [Jawaban Soal No 1 TesLatihan](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul5/src/modul5/latihan/TesLatihan.java)
 
+Penjelasan
+
+- class Nasabah
+
+  Dalam modul 5 ini terdapat package perbakan. yang dimana didalam package ini terdapat 2 class yaitu class nasabah dan class tabungan. 
+  Pada class nasabah digunakan untuk menyimpan menyimpan data identitas dari nasabah suatu bank. Pada class ini diawali dengan deklarasi, deklarasi tersebut yaitu :
+
+```java
+   private String namaAwal;
+   private String namaAkhir;
+   private Tabungan tabungan;
+```
+Kemudian pada method Nasabah menggunakan keyword sebagai berikut :
+
+```java
+public Nasabah(String namaAwal, String namaAkhir){
+       this.namaAwal = namaAwal;
+       this.namaAkhir = namaAkhir;
+    }
+```
+
+Pada method tersebut terdapat atribut namaAwal dan namaAkhir. Method Nasabah(namaAwal, namaAkhir) akan disimpan pada atribut namaAwal dan namaAkhir pada class Nasabah tersebut.
+
+Begitu juga dengan Method setTabungan
+
+```java
+public void setTabungan(Tabungan tabungan){
+        this.tabungan = tabungan;
+    }
+}
+```
+
+- class Tabungan
+
+Pada class Tabungan ini digunakan untuk menyimpan data nominal uang yang dimasukkan ataupun data uang yang akan diambil. Pada class ini diawali dengan deklarasi atribut saldo sebagai tempat menyimpan data uang, dengan jumlah nominal uang yang diinputkan oleh user.
+   
+```java
+private int saldo;
+private int jumlah;
+```
+
+Setelah itu pada method Tabungan menggunakan kata kunci yang merujuk pada atribut saldo
+
+```java
+public Tabungan(int saldo){
+       this.saldo = saldo;
+    }
+```
+
+- class TesLatihan pada package latihan.
+
+Pada class ini digunakan untuk memanggil class Nasabah dan class Tabungan menggunakan perintah import untuk memanggil class lain.
+   
+```java
+import modul5.latihan.perbankan.Nasabah;
+import modul5.latihan.perbankan.Tabungan;
+```
+Pada class ini terdapat main user, yang dimana digunakan untuk menyimpan atau mengambil uang yang ada pada Tabungan.
+
+# Kesimpulan
+
+Yang dapat disimpulkan dari praktikum modul 5 ini yaitu mahasiswa mampu memahami cara menggunakan perintah import untuk mengakses class dari package lain. Dapat memahami fungsi dan cara menggunakan keyword this.
