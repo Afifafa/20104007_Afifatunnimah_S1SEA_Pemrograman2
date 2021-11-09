@@ -86,4 +86,4 @@ Pada class ini terdapat main user, yang dimana digunakan untuk menyimpan atau me
 
 # Kesimpulan
 
-Yang dapat disimpulkan dari praktikum modul 5 ini yaitu mahasiswa mampu memahami cara menggunakan perintah import untuk mengakses class dari package lain. Dapat memahami fungsi dan cara menggunakan keyword this.
+Yang dapat disimpulkan dari praktikum modul 5 ini yaitu mahasiswa mampu memahami cara menggunakan perintah import untuk mengakses class dari package lain. Dapat memahami fungsi dan cara menggunakan keyword this dalam menyelesaikan berbagai study kasus.
