@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="2fcbb458-8845-4a9e-8146-75293e84eaa7" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="2fcbb458-8845-4a9e-8146-75293e84eaa7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/modul6/percobaan/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul6/percobaan/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul6/percobaan/Bentuk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul6/percobaan/InheritDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul6/percobaan/InheritanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul6/percobaan/Persegi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul6/percobaan/PersegiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul6/percobaan/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul6/percobaan/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +34,44 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="RunManager" selected="Application.InheritDemo">
+    <configuration name="InheritDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul6.percobaan.InheritDemo" />
+      <module name="20104007_Afifatunnimah_S1SEA_Pemrograman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul6.percobaan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesLatihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul5.latihan.TesLatihan" />
+      <module name="20104007_Afifatunnimah_S1SEA_Pemrograman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul5.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InheritDemo" />
+        <item itemvalue="Application.TesLatihan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+>>>>>>> Stashed changes
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2fcbb458-8845-4a9e-8146-75293e84eaa7" name="Default Changelist" comment="" />
