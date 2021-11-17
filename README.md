@@ -229,6 +229,10 @@ Student siswa = new Student();
   
 C. Percobaan Tiga
 
+- [Class A](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul6/src/modul6/percobaan/percobaan_tiga/A.java)
+- [Class B](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul6/src/modul6/percobaan/percobaan_tiga/B.java)
+- [Class InheritanceTest](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul6/src/modul6/percobaan/percobaan_tiga/InheritanceTest.java)
+
 - Class A
   
   Pada class ini terdapat inisialisasi dari variable x,y dengan tipe data integer dan dengan modifire privat dan diganti dengan protected. Kemudian terdapat method set dan get beserta constructor methodnya serta penggunaan set dan get yang telah dimodifikasi dengan sesuai kebutuhan dan akan menjadi program yang lebih efisien.
@@ -316,6 +320,9 @@ C. Percobaan Tiga
   Pada subclass semua nilai dapat dicetak tetapi nilai x tidak dapat dicetak dikarenakan tidak ada method yang digunakan untuk mencetak nilai x, yang dimana nilai x dan y akan dicetak dengan perintah yang ada pada superclass tersebut.
    
 D. Percobaan Empat
+
+- [Class Parent](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul6/src/modul6/percobaan/percobaan_empat/Parent.java)
+- [Class Child](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul6/src/modul6/percobaan/percobaan_empat/Child.java)
 
 - Class Parent
 
