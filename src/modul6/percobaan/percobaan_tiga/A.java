@@ -1,4 +1,4 @@
-package modul6.percobaan;
+package modul6.percobaan.percobaan_tiga;
 
 public class A {
     protected int x;

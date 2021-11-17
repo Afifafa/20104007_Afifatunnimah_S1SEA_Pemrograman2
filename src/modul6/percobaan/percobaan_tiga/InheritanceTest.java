@@ -1,4 +1,4 @@
-package modul6.percobaan;
+package modul6.percobaan.percobaan_tiga;
 
 public class InheritanceTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package modul6.percobaan;
+package modul6.percobaan.percobaan_satu;
 
 public class PersegiTest {
     public static void main(String[] args) {

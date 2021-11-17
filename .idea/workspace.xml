@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e6b5679-bc03-48d5-a345-2d1932779824" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_11_2021_20_39__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_11_2021_20_39__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_11_2021_22_59__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_11_2021_22_59__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul6/percobaan/Bentuk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modul6/percobaan/percobaan_satu/Bentuk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul6/percobaan/Persegi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modul6/percobaan/percobaan_satu/Persegi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul6/percobaan/PersegiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modul6/percobaan/percobaan_satu/PersegiTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../SEMESTER 1/PRAKTIKUM ALGORITMA DAN PEMROGRAMAN/Pertemuan3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/modul6/percobaan/percobaan_satu" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2\src\modul6\percobaan\percobaan_empat" />
+      <recent name="D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2\src\modul6\percobaan\percobaan_tiga" />
+      <recent name="D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2\src\modul6\percobaan\percobaan_dua" />
+      <recent name="D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2\src\modul6\percobaan\percobaan_satu" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="TesLatihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -64,7 +74,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2fcbb458-8845-4a9e-8146-75293e84eaa7" name="Default Changelist" comment="" />
+      <changelist id="5e6b5679-bc03-48d5-a345-2d1932779824" name="Changes" comment="" />
       <created>1634806868801</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
