@@ -1,0 +1,108 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"2fcbb458-8845-4a9e-8146-75293e84eaa7\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1zoG7xNW0MoQrPgQdPDQn4AMhlB\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"2fcbb458-8845-4a9e-8146-75293e84eaa7\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1634806868801</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1634806868801</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c5e2967aee018762321bfdcf7bb43bfd0dbea82a)
++++ b/.idea/workspace.xml	(date 1637217779403)
+@@ -1,7 +1,13 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
++<<<<<<< Updated upstream
+     <list default="true" id="2fcbb458-8845-4a9e-8146-75293e84eaa7" name="Default Changelist" comment="" />
++=======
++    <list default="true" id="5e6b5679-bc03-48d5-a345-2d1932779824" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
++>>>>>>> Stashed changes
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -18,7 +24,83 @@
+   <component name="PropertiesComponent">
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++<<<<<<< Updated upstream
++  </component>
++=======
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/modul6/percobaan/percobaan_empat" />
+   </component>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2\src\modul6\percobaan\percobaan_empat" />
++      <recent name="D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2\src\modul6\percobaan\percobaan_tiga" />
++      <recent name="D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2\src\modul6\percobaan\percobaan_dua" />
++      <recent name="D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2\src\modul6\percobaan\percobaan_satu" />
++    </key>
++  </component>
++  <component name="RunManager" selected="Application.InheritanceTest">
++    <configuration name="InheritDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="modul6.percobaan.percobaan_dua.InheritDemo" />
++      <module name="20104007_Afifatunnimah_S1SEA_Pemrograman2" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="modul6.percobaan.percobaan_dua.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="InheritanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="modul6.percobaan.percobaan_tiga.InheritanceTest" />
++      <module name="20104007_Afifatunnimah_S1SEA_Pemrograman2" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="modul6.percobaan.percobaan_tiga.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="PersegiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="modul6.percobaan.percobaan_satu.PersegiTest" />
++      <module name="20104007_Afifatunnimah_S1SEA_Pemrograman2" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="modul6.percobaan.percobaan_satu.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="TesLatihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="modul5.latihan.TesLatihan" />
++      <module name="20104007_Afifatunnimah_S1SEA_Pemrograman2" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="modul5.latihan.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.InheritanceTest" />
++        <item itemvalue="Application.InheritDemo" />
++        <item itemvalue="Application.PersegiTest" />
++        <item itemvalue="Application.TesLatihan" />
++      </list>
++    </recent_temporary>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++>>>>>>> Stashed changes
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+       <changelist id="2fcbb458-8845-4a9e-8146-75293e84eaa7" name="Default Changelist" comment="" />
