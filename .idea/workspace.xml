@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d98f3063-f6e9-4d63-a08e-fd323878f9e9" name="Changes" comment="" />
+    <list default="true" id="d98f3063-f6e9-4d63-a08e-fd323878f9e9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul7/percobaan/percobaan_dua/Overload1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modul7/percobaan/percobaan_dua/Overload1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +39,65 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/modul7/percobaan/percobaan_tiga" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2\src\modul7\percobaan\percobaan_tiga" />
+      <recent name="D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2\src\modul7\percobaan\percobaan_satu" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="modul7.percobaan.percobaan_dua" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Overload1">
+    <configuration name="Overload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul7.percobaan.percobaan_satu.Overload" />
+      <module name="20104007_Afifatunnimah_S1SEA_Pemrograman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul7.percobaan.percobaan_satu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Overload1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul7.percobaan.percobaan_dua.Overload1" />
+      <module name="20104007_Afifatunnimah_S1SEA_Pemrograman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul7.percobaan.percobaan_dua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Overriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul7.percobaan.percobaan_tiga.Overriding" />
+      <module name="20104007_Afifatunnimah_S1SEA_Pemrograman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul7.percobaan.percobaan_tiga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Overload1" />
+        <item itemvalue="Application.Overriding" />
+        <item itemvalue="Application.Overload" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

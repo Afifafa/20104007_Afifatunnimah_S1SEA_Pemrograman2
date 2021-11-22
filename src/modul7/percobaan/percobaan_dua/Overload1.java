@@ -1,5 +1,5 @@
 package modul7.percobaan.percobaan_dua;
-
+import modul7.percobaan.percobaan_satu.Overload;
 public class Overload1 {
     void myMethod(short s){
         System.out.println("short");
@@ -9,7 +9,7 @@ public class Overload1 {
         System.out.println("int");
     }
 
-    void myMethod(long l) {
+    void myMethod(long l){
         System.out.println("long");
     }
 
@@ -18,5 +18,7 @@ public class Overload1 {
         byte b = 1;
 
         o.myMethod(b);
+        o.myMethod(1);
+        o.myMethod(64);
     }
 }
