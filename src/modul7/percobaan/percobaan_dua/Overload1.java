@@ -1,4 +1,4 @@
-package modul7.percobaan;
+package modul7.percobaan.percobaan_dua;
 
 public class Overload1 {
     void myMethod(short s){

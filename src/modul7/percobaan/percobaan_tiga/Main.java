@@ -1,4 +1,4 @@
-package modul7.percobaan;
+package modul7.percobaan.percobaan_tiga;
 
 public class Main {
     public static void main(String[] args) {
