@@ -49,7 +49,7 @@ Method yang terkena override (overiden method) diharuskan tidak boleh mempunyai 
 
 SOAL
 
-PERCOBAAN 1
+*PERCOBAAN 1*
   1. Melakukan Overloading pada method
 
 Jawaban :
@@ -58,9 +58,10 @@ Jawaban :
 - [Class C](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul7/src/modul7/percobaan/percobaan_satu/C.java)
 - [Class Overload](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul7/src/modul7/percobaan/percobaan_satu/Overload.java)
 
-A. Percobaan 1
+*A. Percobaan 1*
 
 - Class A
+
 Class A ini sebagai class Parent atau Superclass Utama
 
 ```java
@@ -71,6 +72,7 @@ public class A {
 ```
 
 - Class B
+
 Class B ini merupakan Sub-Class dari SuperClass atau termasuk parent dari class A serta menjadi SuperClass dari Class C
 
 ```java
@@ -82,6 +84,7 @@ public class B extends A {
 ```
 
 - Class C
+
 Class ini merupakan SubClass dari Class B karena Class B merupakan SuperClass terdekat dari SubClass C
 
 ```java
@@ -93,6 +96,7 @@ public class C extends B {
 ```
 
 - Class Overload
+
 Class Overload ini digunakan sebagai main. Pada Class ini untuk memanggil Class C dan dari superclass yang mana nantinya akan dipanggil atau dicetak dari class C tersebut pada output.
 
 ```java
@@ -120,7 +124,7 @@ public class Overload {
 
 ***
 
-Hasil dari percobaan satu
+*Hasil dari percobaan satu*
 
 Overload.myOverload(A a)
 
@@ -130,15 +134,16 @@ Overload.myOverload(B b)
 
 Pada output ini class B merupakan keluaran dari output Class C, hal ini dikarenakan class B merupakan superclass dari class C. Pada main ini class A tidak ada keluaran atau tidak dicetak dikarenakan Superclass tidak memiliki suatu Superclass lagi diatasnya. Sehingga pada saat Class B menjadi superclass dari class C maka class A tidak memiliki hubungan lagi dengan sub-class C.
 
-PERCOBAAN 2
+*PERCOBAAN 2*
   1. Melakukan Overloading pada method
 
 Jawaban :
 - [Class Overload1](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul7/src/modul7/percobaan/percobaan_dua/Overload1.java)
 
-B. Percobaan 2
+*B. Percobaan 2*
 
 - Class Overload1
+
 Pada percobaan kedua class Overload1 ini merupakan contoh penggunaan dari metode Overloading. Program tersebut diketahui bahwa tiap methodnya memiliki nama yang sama tetapi dengan parameter yang berbeda, hal ini disesuaikan dengan keluaran didalamnya. Class ini juga dideklarasikan dengan tipe data byte yang kemudian dengan variable b yang digunakan untuk memanggil method myMethod yang dimana ini merupakan penerapan dari Overloading.
 
 ```java
@@ -167,7 +172,7 @@ public class Overload1 {
 ```
 ***
 
-Hasil dari percobaan dua
+*Hasil dari percobaan dua*
 
 short
 
