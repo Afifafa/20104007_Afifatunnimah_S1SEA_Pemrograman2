@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.VirtualDemo">
     <configuration name="TesLatihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="modul5.latihan.TesLatihan" />
       <module name="20104007_Afifatunnimah_S1SEA_Pemrograman2" />
@@ -48,8 +48,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VirtualDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul8.latihan.VirtualDemo" />
+      <module name="20104007_Afifatunnimah_S1SEA_Pemrograman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul8.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VirtualDemo" />
         <item itemvalue="Application.TesLatihan" />
       </list>
     </recent_temporary>
