@@ -44,6 +44,7 @@ Memanggil mailCheck Berdasarkan Referensi Pegawai --
 Memeriksa kelas gaji dalam surat 
 
 Memeriksa tertuju untuk Ini nama dengan gaji 2500.0
+***
 
 # Kesimpulan
 
