@@ -22,9 +22,28 @@ Mata Kuliah Pemrograman 2
   
 # Praktikum
 SOAL, JAWABAN DAN ANALISIS
+
 1. [Pegawai](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/Pegawai.java)
 2. [Gaji](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/Gaji.java)
 3. [VirtualDemo](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/VirtualDemo.java)
+
+***
+Hasil Running
+***
+
+Menyusun Pegawai
+
+Memanggil mailCheck Berdasarkan Referensi Gaji --
+
+Memeriksa kelas gaji dalam surat 
+
+Memeriksa tertuju untuk Wahyu dengan gaji 5000.0
+
+Memanggil mailCheck Berdasarkan Referensi Pegawai --
+
+Memeriksa kelas gaji dalam surat 
+
+Memeriksa tertuju untuk Ini nama dengan gaji 2500.0
 
 # Kesimpulan
 
