@@ -39,6 +39,7 @@ SOAL, JAWABAN DAN ANALISIS
    
    Fungsi dari mailCheck adalah memeriksa surat untuk siapa, atau akan diberikan kepada siapa dan akan menampilkan alamat yang dituju, yang telah diinputkan sebelumnya. toString, untuk merepresentasikan object kedalam bentuk object. Kemudian membuat getName dan juga getAddress sebagai lanjutan methodnya. 
    Pada fungsi dari getter name dan getter address ini adalah, mengumpulkan dari data yang sudah kita inputkan nanti pada di main. Fungsi dari setter Address dengan menggunakan parameter dengan tipe data String dengan variable newAddress, yang mana data yang disimpan pada variable address akan sama dengan variable newAddress, sama juga dengan getter number. 
+***
    
 2. [Gaji](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/Gaji.java)
 
@@ -59,6 +60,7 @@ pada salary tersebut. Setelah itu membuat method mailCheck dan getSalary.
    }
   ```
   pada method setter Salary dengan parameter tipe data double dengan variable newSalary, jika variable newSalary tersebut lebih besar atau sama dengan 0.0, maka variable salary akan sama dengan variable newSalary. 
+***
   
 3. [VirtualDemo](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/VirtualDemo.java)
 
@@ -94,7 +96,7 @@ Memeriksa tertuju untuk Ini nama dengan gaji 2500.0
 ***
 
   Mengapa gaji Gaji tersebut yang tercetak hanya 5000 dan 2500 ? Hal tersebut dikarena saat user menginputkan angka 3 dan 2 setelah ditambahkan dengan tanda koma maka akan berubah menjadi sebuah number. Maka yang tercetak hanya 5000 dan 2500.
-  
+***
 # Kesimpulan
 
 Pada praktikum modul 8 ini dapat disimpulkan bahwa mahasiswa mampu untuk memahami serta mengimplementasikan metode polimorfisme dalam berbagai study kasus nantinya.
