@@ -24,8 +24,24 @@ Mata Kuliah Pemrograman 2
 SOAL, JAWABAN DAN ANALISIS
 
 1. [Pegawai](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/Pegawai.java)
-2. [Gaji](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/Gaji.java)
-3. [VirtualDemo](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/VirtualDemo.java)
+
+  Pada pembuatan class Pegawai ini yang pertama yaitu membuat constructornya. Setelah itu mendeklarasikan variable name, address dengan menggunakan tipe data String serta mendeklarasikan juga variable number dengan menggunakan tipe data integer / int yang di private. Kemudian membuat class Pegawai menjadi public. Setelah membuat class Pegawai menjadi public, dengan menggunakan parameter dua string yaitu name dan addres, dan satu int atau integer yaitu number. Hal tersebut untuk memanggil "Menyusun pegawai".
+  Menyusun pegawai berfungsi sebagai menerima inputan yang diterima pada class main nantinya. Sehingga yang akan diinputkan masuk kepada method tersebut. Lalu membuat name, address, dan number menggunakan this, this disini untuk mempresentasikan objectnya. Maka sama halnya dengan name, address dan juga number. Setelah itu, membuat method mailCheck dan toString untuk mengecheck dan mengembalikan data - data yang sudah di input diawal. 
+  
+  ```java
+  public void mailCheck(){
+      System.out.println("Memeriksa Surat Untuk " + this.name + " " + this.address);
+   }
+   public String toString(){
+      return name + " " + address + " " + number;
+   }
+   ```
+   
+   Fungsi dari mailCheck adalah memeriksa surat untuk siapa, atau akan diberikan kepada siapa dan akan menampilkan alamat yang dituju, yang telah diinputkan sebelumnya. toString, untuk merepresentasikan object kedalam bentuk object. Kemudian membuat getName dan juga getAddress sebagai lanjutan methodnya. 
+   Pada fungsi dari getter name dan getter address ini adalah, mengumpulkan dari data yang sudah kita inputkan nanti pada di main. Fungsi dari setter Address dengan menggunakan parameter dengan tipe data String dengan variable newAddress, yang mana data yang disimpan pada variable address akan sama dengan variable newAddress, sama juga dengan getter number. 
+   
+3. [Gaji](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/Gaji.java)
+4. [VirtualDemo](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/VirtualDemo.java)
 
 ***
 Hasil Running
