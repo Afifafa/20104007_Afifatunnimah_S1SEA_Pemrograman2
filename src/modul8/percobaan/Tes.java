@@ -1,4 +1,4 @@
-package modul8;
+package modul8.percobaan;
 
 public class Tes {
     public static void main(String[] args) {

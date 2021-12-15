@@ -1,4 +1,4 @@
-package modul8;
+package modul8.percobaan;
 
 public class Parent {
     int x = 5;
