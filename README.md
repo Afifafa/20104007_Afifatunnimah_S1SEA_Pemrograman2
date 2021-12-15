@@ -40,8 +40,39 @@ SOAL, JAWABAN DAN ANALISIS
    Fungsi dari mailCheck adalah memeriksa surat untuk siapa, atau akan diberikan kepada siapa dan akan menampilkan alamat yang dituju, yang telah diinputkan sebelumnya. toString, untuk merepresentasikan object kedalam bentuk object. Kemudian membuat getName dan juga getAddress sebagai lanjutan methodnya. 
    Pada fungsi dari getter name dan getter address ini adalah, mengumpulkan dari data yang sudah kita inputkan nanti pada di main. Fungsi dari setter Address dengan menggunakan parameter dengan tipe data String dengan variable newAddress, yang mana data yang disimpan pada variable address akan sama dengan variable newAddress, sama juga dengan getter number. 
    
-3. [Gaji](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/Gaji.java)
-4. [VirtualDemo](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/VirtualDemo.java)
+2. [Gaji](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/Gaji.java)
+
+  Pada class gaji ini yang pertama yaitu mendeklarasikan tipe data yang digunakan pada method. Pada class gaji ini extends ke class Pegawai untuk mewarisi constructor yang ada pada pegawai. Kemudian membuat salary menggunakan tipe data double lalu private. Setelah di private mengubahnya menjadi public agar dapat dipanggil dan tambahkan salary dengan tipe data doublenya. selanjutnya membuat variable super dengan parameter variable name, address, number. Setelah itu, membuat variable setter Salary dengan parameter variable
+pada salary tersebut. Setelah itu membuat method mailCheck dan getSalary. 
+  Membuat setter Salary dan computePay
+  
+  ```java
+  public void setSalary(double newSalary){
+        if (newSalary >= 0.0){
+            salary = newSalary;
+        }
+     }
+     public double computePay(){
+        System.out.println("Menghitung pembayaran gaji untuk " + getName());
+        return salary/52;
+     }
+   }
+  ```
+  pada method setter Salary dengan parameter tipe data double dengan variable newSalary, jika variable newSalary tersebut lebih besar atau sama dengan 0.0, maka variable salary akan sama dengan variable newSalary. 
+  
+3. [VirtualDemo](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul8/src/modul8/latihan/VirtualDemo.java)
+
+  Pada class VirtualDemo ini akan berfungsi untuk mainnya, yang dimana untuk memanggil data dari class sebelumnya yaitu class Pegawai dan class Gaji. Yang mana kita akan memanggil salary yang berada di mailCheck tersebut, dan juga Pegawai yang menggunakan variable employ.
+  
+  ```java
+  salary.mailCheck();
+       System.out.println("\nMemanggil mailCheck Berdasarkan Referensi Pegawai--");
+       employ.mailCheck();
+     }
+   }
+   ```
+   
+   Kemudian memanggil salary tersebut, maka sistem akan mengeluarkan output pemanggilan mailCheck yang didasarkan pada referensi pegawai. Dan juga memanggil pegawai dengan mailCheck menggunakan variable employment. Maka akan menghasilkan hasil running sebagai berikut :
 
 ***
 Hasil Running
@@ -62,5 +93,8 @@ Memeriksa kelas gaji dalam surat
 Memeriksa tertuju untuk Ini nama dengan gaji 2500.0
 ***
 
+  Mengapa gaji Gaji tersebut yang tercetak hanya 5000 dan 2500 ? Hal tersebut dikarena saat user menginputkan angka 3 dan 2 setelah ditambahkan dengan tanda koma maka akan berubah menjadi sebuah number. Maka yang tercetak hanya 5000 dan 2500.
+  
 # Kesimpulan
 
+Pada praktikum modul 8 ini dapat disimpulkan bahwa mahasiswa mampu untuk memahami serta mengimplementasikan metode polimorfisme dalam berbagai study kasus nantinya.
