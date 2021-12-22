@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bc58315-1bfc-4227-b30c-bd7dca447076" name="Changes" comment="" />
+    <list default="true" id="7bc58315-1bfc-4227-b30c-bd7dca447076" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/modul9/latihan/latihan1/Percobaan7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul9/latihan/latihan2/Percobaan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul9/latihan/latihan3/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul9/latihan/latihan3/ExceptionA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul9/latihan/latihan3/ExceptionB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul9/latihan/latihan3/ExceptionC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul9/ExceptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modul9/percobaan/ExceptTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul9/Percobaan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modul9/percobaan/Percobaan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul9/Percobaan2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modul9/percobaan/Percobaan2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul9/Percobaan3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modul9/percobaan/Percobaan3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,8 +48,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/modul9/percobaan" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2\src\modul9\percobaan" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TesLatihan">
     <configuration name="TesLatihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="modul5.latihan.TesLatihan" />
       <module name="20104007_Afifatunnimah_S1SEA_Pemrograman2" />
@@ -74,7 +92,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2fcbb458-8845-4a9e-8146-75293e84eaa7" name="Default Changelist" comment="" />
+      <changelist id="7bc58315-1bfc-4227-b30c-bd7dca447076" name="Changes" comment="" />
       <created>1634806868801</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />

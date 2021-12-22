@@ -1,4 +1,4 @@
-package modul9;
+package modul9.percobaan;
 
 public class Percobaan3 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package modul9;
+package modul9.percobaan;
 
 public class ExceptTest {
     public static void main(String[] args) {
