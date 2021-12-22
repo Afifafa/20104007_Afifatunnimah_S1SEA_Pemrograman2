@@ -8,6 +8,7 @@ Mata Kuliah Pemrograman 2
 Exception adalah suatu kondisi abnormal yang terjadi pada saat menjalankan program. Teknik yang dipakai dalam Java untuk menangani kondisi yang tidak biasa saat menjalankan operasi normal dalam program dinamakan exception handling. Karena dalam java segala sesuatu merupakan objek, maka exception juga direpresentasikan dalam sebuah objek yang menjelaskan tentang exception tersebut. Contoh exception adalah pembagian bilangan dengan 0, pengisian elemen array diluar ukuran array, kegagalan koneksi database, file yang akan dibuka tidak ada, dan mengakses objek yang belum diinisialisasi. Terdapat dua penanganan exception yaitu:
 
 a. Menangani sendiri exception tersebut.
+
 b. Meneruskannya ke luar dengan cara membuat objek tentang exception tersebut dan melemparkannya (throw) keluar agar ditangani oleh kode yang memanggil method(method yang didalamnya terdapat exception) tersebut.
 
 Ada lima keyword yang digunakan oleh Java untuk menangani exception yaitu try, catch, finally, throw dan throws.
@@ -35,8 +36,11 @@ SOAL, JAWABAN DAN ANALISIS
 - [LATIHAN 3 : Menggunakan konsep Inheritance untuk membuat superclass dan subclass exception. Program menangani exception dengan menangkap subclass exception dengan superclass.](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/tree/modul9/src/modul9/latihan/latihan3)
 
 [LATIHAN 3 : ExceptionA](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul9/src/modul9/latihan/latihan3/ExceptionA.java)
+
 [LATIHAN 3 : ExceptionB](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul9/src/modul9/latihan/latihan3/ExceptionB.java)
+
 [LATIHAN 3 : ExceptionC](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul9/src/modul9/latihan/latihan3/ExceptionC.java)
+
 [LATIHAN 3 : Demo](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/modul9/src/modul9/latihan/latihan3/Demo.java)
 
 # Kesimpulan
