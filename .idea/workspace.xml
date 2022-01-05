@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <list default="true" id="7bc58315-1bfc-4227-b30c-bd7dca447076" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_12_2021_19_00_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_12_2021_19_00__Changes_.xml" beforeDir="false" />
 =======
     <list default="true" id="2fcbb458-8845-4a9e-8146-75293e84eaa7" name="Default Changelist" comment="">
+>>>>>>> Stashed changes
+=======
+    <list default="true" id="2fcbb458-8845-4a9e-8146-75293e84eaa7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Tugas_besar/demo1/demo2/main/demo2/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_besar/demo1/demo2/main/webapp/ServletUtility.java" afterDir="false" />
 >>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -46,6 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/modul9/percobaan" />
   </component>
+<<<<<<< Updated upstream
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\KULIAH_ S1 SOFTWARE ENGINEERING ITTP\AFIFA_ITTP\SEMESTER 3\PRAKTIKUM PEMROGRAMAN 2\20104007_Afifatunnimah_S1SEA_Pemrograman2\src\modul9\percobaan" />
@@ -113,6 +120,8 @@
       </list>
     </recent_temporary>
   </component>
+=======
+>>>>>>> Stashed changes
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -134,6 +143,9 @@
         </entry>
       </map>
     </option>
+<<<<<<< Updated upstream
     <option name="oldMeFiltersMigrated" value="true" />
+=======
+>>>>>>> Stashed changes
   </component>
 </project>
