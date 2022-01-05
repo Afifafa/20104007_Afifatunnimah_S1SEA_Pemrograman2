@@ -63,7 +63,7 @@ Berikut ini adalah materi-materi PBO yang diimplementasikan pada pembuatan progr
 
 `Class` bertugas untuk mengumpulkan prosedur/fungsi dan variabel dalam satu tempat. `Class` merupakan blueprint dari sebuah objek atau cetakan untuk membuat objek. Berikut penerapan   Class pada `SnackGame` yaitu:
 
-> Class "MainGame" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/MainGame.java)
+> Class "MainGame" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/MainGame.java)
 
 ```java
 package snackGame;
@@ -73,7 +73,7 @@ public class MainGame {
 }
 ```
 
-> Class "GameFrame" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GameFrame.java)
+> Class "GameFrame" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GameFrame.java)
 
 ```java
 package snackGame;
@@ -83,7 +83,7 @@ public class GameFrame extends JFrame {
 
 ```
 
-> Class "GamePanel" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)
+> Class "GamePanel" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)
 
 ```java
 package snackGame;
@@ -99,7 +99,7 @@ public class GamePanel extends JPanel implements ActionListener {
 
 `Atribut` merupakan bagian dari sebuah kelas yang masih berhubungan erat dari kelas tersebut. Atribut bisa juga disebut sebagai properti atau properties dari sebuah class. Penerapan Atribut pada `SnackGame` yaitu:
 
-> Class "GamePanel" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)
+> Class "GamePanel" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)
 
 ```java
 public class GamePanel extends JPanel implements ActionListener {                  
@@ -127,7 +127,7 @@ public class GamePanel extends JPanel implements ActionListener {
 
 `Method` berperan menjelaskan bagaimana suatu atribut beraksi. Peran yang dimaksud berupa tingkah laku (behavior) yang dapat digambarkan oleh suatu method. Penerapan Method-method pada Program `SnackGame` yaitu:
 
-> Class "MainGame" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/MainGame.java)
+> Class "MainGame" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/MainGame.java)
 
 ```java
 package snackGame;
@@ -141,7 +141,7 @@ public class MainGame {
 
 ```
 
-> Class "GamePanel" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)
+> Class "GamePanel" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)
 
 ```java
 package snackGame;
@@ -203,7 +203,7 @@ public class GamePanel extends JPanel implements ActionListener {
 `Objek` (Object) adalah sebuah variabel instance yang merupakan wujud dari class. `Instance` merupakan wujud dari sebuah kelas. Sebuah objek digambarkan dengan `variable` dan `method`.
 Penerapan Object pada program `SnackGame` yaitu:
 
-> Class "GameFrame" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GameFrame.java)
+> Class "GameFrame" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GameFrame.java)
 
 ```java
 package snackGame;
@@ -227,7 +227,7 @@ public class GameFrame extends JFrame {
 
 `Information Hiding` adalah menyembunyikan attribute suatu objek dari objek lain. Informasi dari `class` disembunyikan dari anggota-anggota lainnya agar 'class' lain tidak dapat mengaksesnya. Implementasi pada program `SnackGame` yaitu:
 
-> Class "GamePanel" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)
+> Class "GamePanel" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)
 
 ```java
     private int bodyParts = 6;                      
@@ -242,7 +242,7 @@ public class GameFrame extends JFrame {
 
 `Encapsulation` (Enkapsulasi) adalah suatu cara untuk menyembunyikan implementasi detail dari suatu class. Enkapsulasi mempunyai dua hal mendasar, yaitu:
 
-> Class "GamePanel" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)
+> Class "GamePanel" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)
 
 ```java
 public void draw(Graphics g) {
@@ -274,7 +274,7 @@ public void gameOver(Graphics g) {
 
 `Constructor` adalah suatu method yang pertama kali dijalankan pada saat pembuatan suatu obyek. Konstruktor ini merupakan method yang berfungsi untuk menginisialisasi variabel-variabel instans yang akan di miliki oleh objek. Konstruktor dipanggil pada saat proses instansiasi kelas menjadi objek. Berikut penerapan `constructor` pada program `SnackGame` yaitu:
 
-> Class "GameFrame" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GameFrame.java)
+> Class "GameFrame" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GameFrame.java)
 
 ```java
 package snackGame;
@@ -288,7 +288,7 @@ public class GameFrame extends JFrame {  //Class
 }
 ```
 
-> Class "GamePanel" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)
+> Class "GamePanel" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)
 
 ```java
 package snackGame;
@@ -310,7 +310,7 @@ public class GamePanel extends JPanel implements ActionListener {  //Class
 
 Kata kunci ini digunakan dalam sebuah kelas untuk menyatakan object sekarang. Kata kunci `this` sangat berguna untuk menunjukkan suatu member dalam class-nya sendiri. `This` dapat digunakan baik untuk data member maupun untuk function member, serta dapat juga digunakan untuk konstruktor. Berikut penerapan pada program `SnackGame` yaitu:
 
-> Class "GameFrame" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GameFrame.java)
+> Class "GameFrame" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GameFrame.java)
 
 ```java
 package snackGame;
@@ -330,7 +330,7 @@ public class GameFrame extends JFrame {
 }
 ```
 
-> Class "GamePanel" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)
+> Class "GamePanel" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)
 
 ```java
 package snackGame;
@@ -354,7 +354,7 @@ public class GamePanel extends JPanel implements ActionListener {
 
 `Inheritance` merupakan salah satu dari 4 konsep Pemrograman Java yang fundamental Java. Inheritance bersifat krusial karena memiliki efek langsung pada bagaimana mendesain class-class. Konsep ini sebenarnya memiliki tujuan yaitu ketika membuat suatu class maka hanya perlu menspesifikasikan apa yang menjadi perbedaan antara suatu class dengan class lainnya, kemudian secara otomatis Inheritance ini akan memberikan akses otomatis terhadap informasi yang terkandung dari class lainnya. Keyword untuk Inheritance atau pewarisan adalah "Extends". Berikut penerapan pada program `SnackGame` yaitu:
 
-> Class "GamePanel" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)
+> Class "GamePanel" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)
 
 ```java
 package snackGame;
@@ -378,7 +378,7 @@ public class GamePanel extends JPanel implements ActionListener {
 
 Kata kunci `"Super"` dipakai untuk merujuk pada member dari Parent Class, bagaimana kata kunci this yang dipakai untuk merujuk pada anggota dari class itu sendiri.  Berikut penerapan pada program `SnackGame` yaitu:
 
-> Class "GamePanel" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)
+> Class "GamePanel" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)
 
 ```java
 package snackGame;
@@ -401,7 +401,7 @@ public class GamePanel extends JPanel implements ActionListener {
 
 `Overriding` merupakan suatu keadaan dimana kelas anak dapat mengubah atau bisa kita bilang memodifikasi atau memperluas data dan method pada kelas induk. Keuntungan Overriding : dapat menambahkan sifat / atribut pada kelas induk nya. Berikut penerapan pada program `SnackGame` yaitu:
 
-> Class "GamePanel" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)
+> Class "GamePanel" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)
 
 `Parent Class : `
 
@@ -482,7 +482,7 @@ public interface ActionListener extends EventListener {
 }
 ```
 
-> Class "GamePanel" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)
+> Class "GamePanel" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)
 
 `SubClass :`
 
@@ -511,7 +511,7 @@ public interface ActionListener extends EventListener {
 
 Untuk menangani Exception dalam program, dengan meletakkan kode program yang memungkinkan terjadinya exception di dalam `blok-try`, diikuti dengan blok catch yang menentukan jenis exception yang ingin ditangani. Berikut penerapan pada program `SnackGame` yaitu:
 
-> Class "GamePanel" [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)
+> Class "GamePanel" [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)
 
 ```java
 package snackGame;
@@ -554,7 +554,7 @@ Adapun tools yang digunakan pada pemrograman `SnackGame` yaitu `IntelliJ IDEA` (
 
 `Source Code Program`
 
-+ **Class MainGame.java [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/MainGame.java)**
++ **Class MainGame.java [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/MainGame.java)**
 
 ```java
 package snackGame;
@@ -568,7 +568,7 @@ public class MainGame {
 }
 ```
 
-+ **Class GameFrame.java [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GameFrame.java)**
++ **Class GameFrame.java [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GameFrame.java)**
 
 ```java
 package snackGame;
@@ -589,7 +589,7 @@ public class GameFrame extends JFrame {
 }
 ```
 
-+ **Class GamePanel.java [(Link here)](https://github.com/womenincode/Java-OOP-SnackGame/blob/main/src/snackGame/GamePanel.java)**
++ **Class GamePanel.java [(Link here)](https://github.com/Afifafa/20104007_Afifatunnimah_S1SEA_Pemrograman2/blob/SnackGame/src/SnackGame/GamePanel.java)**
 
 ```java
 package snackGame;
